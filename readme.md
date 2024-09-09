@@ -14,7 +14,7 @@
 - [Notes](#notes)
 
 ## Books
-[return to contents](#contents)
+[Return to contents](#contents)
 
 > [!NOTE] 
 > *You can get many these books online using (and, thereby, supporting) something like [Anna's Archive](https://annas-archive.org).
@@ -37,30 +37,30 @@
 - [Hacking, the Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 
 ## Papers
-[return to contents](#contents)
+[Return to contents](#contents)
 
 ## Articles
-[return to contents](#contents)
+[Return to contents](#contents)
 
 ## News
-[return to contents](#contents)
+[Return to contents](#contents)
 
 ## Videos
-[return to contents](#contents)
+[Return to contents](#contents)
 
 ## Quotes
-[return to contents](#contents)
-## Important Figures
+[Return to contents](#contents)
 
-[return to contents](#contents)
+## Important Figures
+[Return to contents](#contents)
 
 ## Errata 
-[return to contents](#contents)
+[Return to contents](#contents)
 *(This should almost always be empty)*
 
 ## Addenda
-[return to contents](#contents)
+[Return to contents](#contents)
 
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
-[return to contents](#contents)
+[Return to contents](#contents)
 
