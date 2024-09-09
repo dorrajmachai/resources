@@ -2,15 +2,22 @@
 
 ## Contents
 
-- [[Books]]
-- [[Papers]]
-- [[Web Articles]]
+- [Books](#books)
+- [Papers](#papers)
+- [Articles](#articles)
+- [News](#news)
+- [Videos](#videos)
+- [Quotes](#quotes)
+- [Important Figures](#important-figures)
+- [Errata](#errata)
+- [Addenda](#addenda)
+- [Notes](#notes)
 
 ## Books
 
 ## Papers
 
-## Web Articles
+## Articles
 
 ## News
 
