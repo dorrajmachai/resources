@@ -16,7 +16,7 @@
 ## Books
 [return to contents](#contents)
 
-> [info] 
+> [!info] 
 > *You can get many these books online using something like [Anna's Archive](https://annas-archive.org).*
 
 > [tip]
