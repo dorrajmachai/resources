@@ -1,5 +1,6 @@
 # Security+ Resources
 
+<details>
 ## Contents
 
 - [Books](#books)
@@ -12,6 +13,7 @@
 - [Errata](#errata)
 - [Addenda](#addenda)
 - [Notes](#notes)
+</details>
 
 ## Books
 [return to contents](#contents)
