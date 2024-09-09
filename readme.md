@@ -16,10 +16,10 @@
 ## Books
 [return to contents](#contents)
 
-> [!info] 
+> [!NOTE] 
 > *You can get many these books online using something like [Anna's Archive](https://annas-archive.org).*
 
-> [tip]
+> [!TIP]
 > **I use [Okular](https://okular.kde.org) to read and take notes in my books. Check it out!**
 
 ### Networking
