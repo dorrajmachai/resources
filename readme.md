@@ -32,4 +32,5 @@
 
 ## Addenda
 
-## Notes
+## [Notes](https://github.com/dorrajmachai/security-plus-notes)
+
