@@ -72,7 +72,6 @@
 - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [r/netsec](https://www.reddit.com/r/netsec/)
 
-*Footnotes*
 [^1]: Yes, these are two different sources.
 
 ## Errata 
@@ -84,3 +83,5 @@
 
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 [Return to contents](#contents)
+
+### *Footnotes*
