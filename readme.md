@@ -9,6 +9,7 @@
 - [Videos](#videos)
 - [Quotes](#quotes)
 - [Important Figures](#important-figures)
+- [Tools](#tools)
 - [Errata](#errata)
 - [Addenda](#addenda)
 - [Notes](#notes)
@@ -62,6 +63,9 @@
 [Return to contents](#contents)
 
 ## Important Figures
+[Return to contents](#contents)
+
+## Tools
 [Return to contents](#contents)
 
 ## Websites
