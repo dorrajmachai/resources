@@ -74,9 +74,10 @@
 
 [^1]: Yes, these are two different sources.
 
-## Errata *(should almost always be empty)*
+## Errata[^2] 
 [Return to contents](#contents)
 
+[^2]: This should almost always be empty
 ## Addenda
 [Return to contents](#contents)
 
