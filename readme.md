@@ -84,4 +84,4 @@
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 [Return to contents](#contents)
 
-### *Footnotes*
+*Footnotes* <span style="display:inline-block; width:100%;"><hr style="width: 100%; display:inline-block; margin-left: 10px; margin-top: 0;"></span>
