@@ -82,4 +82,4 @@
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 [Return to contents](#contents)
 
-[^1]: Yes, these are two different sources. [↩](#fn1)
+[^1]: Yes, these are two different sources.
