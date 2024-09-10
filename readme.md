@@ -36,15 +36,25 @@
 ### Hacking, Vulnerabilities, and Exploitation
 - [Hacking, the Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 
+### Linux
+- [The Linux Command Line, by William Shotts](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523)
+
+### MacOS
+
+### Windows
+
 ## Papers
 [Return to contents](#contents)
+
+> [!NOTE] 
+> *Much like the books, you can get these papers either directly from the source or with Sci-Hub or Anna's Archive. If you 
+> have trouble getting something, let me know and I'll see what I can do!*
 
 ## Articles
 [Return to contents](#contents)
 
 ## News
 [Return to contents](#contents)
-
 ## Videos
 [Return to contents](#contents)
 
@@ -53,6 +63,14 @@
 
 ## Important Figures
 [Return to contents](#contents)
+
+## Websites
+[Return to contents](#contents)
+- [Threatpost](https://threatpost.com)
+- [The Hacker News](https://thehackernews.com)
+- [Hacker News](https://news.ycombinator.com)[^1]
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [r/netsec](https://www.reddit.com/r/netsec/)
 
 ## Errata 
 [Return to contents](#contents)
@@ -64,3 +82,4 @@
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 [Return to contents](#contents)
 
+[^1] Yes, these are two different sources.
