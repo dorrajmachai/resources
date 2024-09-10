@@ -74,7 +74,7 @@
 
 [^1]: Yes, these are two different sources.
 
-<h2 style="display:inline">Errata</h2>*(This should almost always be empty)*
+<h2 style="display:inline; margin-right:10px;">Errata</h2>*(This should almost always be empty)*
 [Return to contents](#contents)
 
 ## Addenda
