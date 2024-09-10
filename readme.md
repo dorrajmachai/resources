@@ -72,12 +72,12 @@
 - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [r/netsec](https://www.reddit.com/r/netsec/)
 
-[^1]: Yes, these are two different sources.
+[^1]: *Yes, these are two different sources.*
 
 ## Errata[^2] 
 [Return to contents](#contents)
 
-[^2]: This should almost always be empty
+[^2]: *This should almost always be empty*
 ## Addenda
 [Return to contents](#contents)
 
