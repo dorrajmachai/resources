@@ -74,10 +74,11 @@
 
 [^1]: *Yes, these are two different sources.*
 
-## Errata[^2] 
+## Errata 
 [Return to contents](#contents)
+> [!IMPORTANT]
+> *This section should almost always be empty*
 
-[^2]: *This should almost always be empty*
 ## Addenda
 [Return to contents](#contents)
 
