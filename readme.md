@@ -84,4 +84,5 @@
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 [Return to contents](#contents)
 
-*Footnotes* 
+> [!NOTE]
+> *The footnotes are numbered in the order they were added to help me stay organized*
