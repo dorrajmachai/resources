@@ -74,9 +74,8 @@
 
 [^1]: Yes, these are two different sources.
 
-## Errata 
+<h2 style="display:inline">Errata</h2>*(This should almost always be empty)*
 [Return to contents](#contents)
-*(This should almost always be empty)*
 
 ## Addenda
 [Return to contents](#contents)
