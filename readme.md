@@ -83,4 +83,3 @@
 [Return to contents](#contents)
 
 [^1]: Yes, these are two different sources. [↩](#fn1)
-<a id="fn1"></a>
