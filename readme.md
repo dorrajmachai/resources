@@ -68,7 +68,7 @@
 [Return to contents](#contents)
 - [Threatpost](https://threatpost.com)
 - [The Hacker News](https://thehackernews.com)
-- [Hacker News](https://news.ycombinator.com)[^1]
+- [Hacker News](https://news.ycombinator.com)[^1] <a id="fn1"></a>
 - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [r/netsec](https://www.reddit.com/r/netsec/)
 
@@ -83,4 +83,3 @@
 [Return to contents](#contents)
 
 [^1] Yes, these are two different sources.[↩](#fn1)
-<a id="fn1"></a>
