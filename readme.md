@@ -56,6 +56,7 @@
 
 ## News
 [Return to contents](#contents)
+
 ## Videos
 [Return to contents](#contents)
 
@@ -77,8 +78,15 @@
 - [NetworkChuck]()
 
 ## Tools
+### For Learning
 [Return to contents](#contents)
 - [explainshell](https://explainshell.com)
+
+### For Work
+
+#### Open-source
+
+#### Proprietary
 
 ## Websites
 [Return to contents](#contents)
