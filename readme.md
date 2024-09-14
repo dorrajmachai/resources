@@ -44,8 +44,9 @@
 
 ### Windows
 
-## Papers
+## Papers and Specifications
 [Return to contents](#contents)
+- [WPA3 Specification](https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.1.pdf)
 
 > [!NOTE] 
 > *Much like the books, you can get these papers either directly from the source or with Sci-Hub or Anna's Archive. If you 
@@ -66,16 +67,16 @@
 ## Important Figures
 [Return to contents](#contents)
 
-- [LaurieWired]()
-- [Marcus Hutchins]()
-- [Chompie]()
-- [Cliff Stoll]()
-- [Kevin Mitnick]()
-- [Camille Stewart]()
-- [Larry Whiteside Jr.]()
+- [LaurieWired](https://lauriewired.com)
+- [Marcus Hutchins](https://en.wikipedia.org/wiki/Marcus_Hutchins)
+- [Chompie](https://chomp.ie/Home)
+- [Cliff Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll)
+- [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick)
+- [Camille Stewart](https://camillestewartgloster.com)
+- [Larry Whiteside Jr.](https://www.linkedin.com/in/larrywhitesidejr/)
 - [Kemba Walden](https://en.wikipedia.org/wiki/Kemba_Walden)
-- [TracketPacer]()
-- [NetworkChuck]()
+- [TracketPacer](https://www.tracketpacer.com)
+- [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
 
 ## Tools
 ### For Learning
