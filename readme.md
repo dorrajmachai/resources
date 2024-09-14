@@ -102,6 +102,7 @@
 
 ## Blogs
 - [h0mbre's The Human Machine Interface](https://h0mbre.github.io)
+- [Nora Sandler](https://norasandler.com)
 
 [^1]: *Yes, these are two different sources.*
 
