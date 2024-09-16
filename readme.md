@@ -62,13 +62,12 @@
 
 [Return to contents](#contents)
 
-- [WPA3 Specification](https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.1.pdf)
-
 > [!NOTE] 
 > _Much like the books, you can get these papers either directly from
 > the source or with Sci-Hub or Anna's Archive. If you have trouble getting
 > something, let me know and I'll see what I can do!_
 
+- [WPA3 Specification](https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.1.pdf)
 ## Articles
 
 [Return to contents](#contents)
