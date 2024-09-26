@@ -7,8 +7,10 @@
 - [Articles](#articles)
 - [News](#news)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Quotes](#quotes)
 - [Important Figures](#important-figures)
+- [Places to Contribute](#places-to-contribute)
 - [Tools](#tools)
 - [Errata](#errata)
 - [Addenda](#addenda)
@@ -68,6 +70,7 @@
 > something, let me know and I'll see what I can do!_
 
 - [WPA3 Specification](https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.1.pdf)
+
 ## Articles
 
 [Return to contents](#contents)
@@ -77,6 +80,10 @@
 [Return to contents](#contents)
 
 ## Videos
+
+[Return to contents](#contents)
+
+## Podcasts
 
 [Return to contents](#contents)
 
@@ -98,6 +105,12 @@
 - [Kemba Walden](https://en.wikipedia.org/wiki/Kemba_Walden)
 - [TracketPacer](https://www.tracketpacer.com)
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
+
+## Places to Contribute
+
+[Return to contents](#contents)
+
+- [Call for Code for Racial Justice](https://github.com/Call-for-Code-for-Racial-Justice)
 
 ## Tools
 
@@ -147,7 +160,3 @@
 ## [Notes](https://github.com/dorrajmachai/security-plus-notes)
 
 [Return to contents](#contents)
-
-> [!NOTE] 
-> _The footnotes are numbered in the order they were added to help me
-> stay organized_
